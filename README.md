@@ -53,7 +53,7 @@ Out of Scope:
 
 * Executives: Interested in high-level insights and compliance performance.
 
-#5. Data Requirements
+# 5. Data Requirements
 
 * Dataset: 50,000 records with the following columns:
 
@@ -69,19 +69,19 @@ Out of Scope:
 
 * Air Quality Index (AQI)
 
-Region
+* Region
 
-Industry
+* Industry
 
-Product Type
+* Product Type
 
-Compliance Level
+* Compliance Level
 
 * Data Format: CSV file, provided as input.
 
 * Data Validation: Ensure integrity, completeness, and removal of inconsistencies.
 
-6. Functional Requirements
+# 6. Functional Requirements
 
 Filters:
 
