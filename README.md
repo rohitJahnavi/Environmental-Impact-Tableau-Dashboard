@@ -139,7 +139,7 @@ Interactivity:
 
 * Mitigation: Optimize Tableau extracts and use aggregated data views.
 
-#10. Success Metrics
+# 10. Success Metrics
 
 * Dashboard adoption by key stakeholders.
 
