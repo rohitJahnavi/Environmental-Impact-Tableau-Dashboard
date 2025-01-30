@@ -57,7 +57,7 @@ Out of Scope:
 
 * Dataset: 50,000 records with the following columns:
 
-*Carbon Emissions (kg)
+* Carbon Emissions (kg)
 
 * Water Consumption (liters)
 
@@ -77,33 +77,33 @@ Product Type
 
 Compliance Level
 
-Data Format: CSV file, provided as input.
+* Data Format: CSV file, provided as input.
 
-Data Validation: Ensure integrity, completeness, and removal of inconsistencies.
+* Data Validation: Ensure integrity, completeness, and removal of inconsistencies.
 
 6. Functional Requirements
 
 Filters:
 
-Region
+* Region
 
-Industry
+* Industry
 
-Product Type
+* Product Type
 
-Compliance Level
+* Compliance Level
 
-Charts and Visuals:
+* Charts and Visuals:
 
-Bar Chart: Carbon emissions by region.
+* Bar Chart: Carbon emissions by region.
 
-Line Chart: Trends of energy usage over time.
+* Line Chart: Trends of energy usage over time.
 
-Heatmap: Recycling rates by industry and region.
+* Heatmap: Recycling rates by industry and region.
 
-Pie Chart: Distribution of compliance levels.
+* Pie Chart: Distribution of compliance levels.
 
-Scatter Plot: Relationship between carbon emissions and recycling rates.
+* Scatter Plot: Relationship between carbon emissions and recycling rates.
 
 Interactivity:
 
