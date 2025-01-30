@@ -121,3 +121,28 @@ Interactivity:
 
 * Scalability: Prepare for potential integration of additional datasets.
 
+# 8. Assumptions and Constraints
+
+* The dataset provided is accurate and up-to-date.
+
+* Tableau is the chosen platform for visualization.
+
+* No additional external data sources will be integrated initially.
+
+# 9. Risks and Mitigation
+
+* Risk: Dataset anomalies or missing data.
+
+* Mitigation: Perform thorough data cleaning and validation.
+
+* Risk: Performance issues with large datasets.
+
+* Mitigation: Optimize Tableau extracts and use aggregated data views.
+
+#10. Success Metrics
+
+* Dashboard adoption by key stakeholders.
+
+* Reduction in time taken to generate environmental compliance reports.
+
+* Identification of actionable insights leading to measurable improvements.
